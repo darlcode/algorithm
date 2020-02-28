@@ -1,4 +1,4 @@
-############# link : ##############
+############# link : https://programmers.co.kr/learn/courses/30/lessons/43236 ##############
 ## 2020.01.26 ##
 
 def solution(distance, rocks, n):
