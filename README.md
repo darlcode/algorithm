@@ -3,10 +3,10 @@ solutions of many algorithmic problems
 
 < folder lists >
 
-- baekjoon_algorithm :
-  sloutions of baekjoon algorithm problems
+- baekjoon_algorithm : <br>
+  sloutions of baekjoon algorithm problems <br>
   baekjoon website address : https://www.acmicpc.net/
   
-- progammers_algorithm :
-  solutions of programmers algorithm problems
+- progammers_algorithm : <br>
+  solutions of programmers algorithm problems <br>
   programmers website address : https://programmers.co.kr/
