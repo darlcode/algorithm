@@ -28,10 +28,13 @@ int main()
 
         // 나머지가 0인 경우 floor를 1로 할당해줌
         if(remainder == 0)
+        {
             remainder = floor;
-
+            roomNumber = (remainder * 100) + quotient;
+        }
         // 나머지 = 층 수, 몫 = 해당 층의 방 번호
-        roomNumber = (remainder * 100) + (quotient + 1);
+        else
+            roomNumber = (remainder * 100) + (quotient + 1);
 
         std::cout << roomNumber << std::endl;
     }
